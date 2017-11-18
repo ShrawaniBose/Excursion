@@ -21,6 +21,7 @@ p {
 .download {
   color: aquamarine;
   font-size: 16px
+  text: underline;
 }
 .copyright {
   text-align: right;
